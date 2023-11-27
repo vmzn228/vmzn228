@@ -1,10 +1,73 @@
-- 👋 Hi, I’m @vmzn228
-- 👀 I’m interested in Web Programming, Linux, Scripts.
-- 🌱 I’m currently learning Web programming.
-- 💞️ I’m not currently looking to collaborate.
-- 📫 How to reach me:
-       Mail
+👋 Hi, I’m @vmzn228
+
+👀 I’m interested in Web Programming, Linux, Scripts.
+
+🌱 I’m currently learning Web programming.
+
+💞️ I’m not currently looking to collaborate.
+
+📫 How to reach me:
+
+- Mail:
+```
 vmazan228@proton.me
+```
+- PGP key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+
+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
+wA==
+=+CTu
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 <!---
 vmzn228/vmzn228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
